@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/metetik/.dotnet/store/|arch|/|tfm|",
+      "/home/metetik/.nuget/packages"
+    ]
+  }
+}
